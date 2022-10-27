@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loforte1
-- 👀 I’m interested in C++, C#.
-- 🌱 I’m currently learning C# ...
+- 👀 I’m interested in C#.
+- 🌱 I’m currently learning Vue, VueX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Alenloforte86@hotmail.com
 
