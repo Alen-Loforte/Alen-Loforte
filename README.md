@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Loforte1
+- 👋 Hi, I’m Alen Loforte
 - 👀 I’m interested in C#.
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently working with Nuxt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Alenloforte86@hotmail.com
 
