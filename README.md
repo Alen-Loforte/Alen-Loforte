@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alen Loforte
 - 👀 I’m interested in C#.
-- 🌱 I’m currently working with Nuxt
+- 🌱 I’m currently working with Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Alenloforte86@hotmail.com
 
