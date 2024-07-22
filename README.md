@@ -26,5 +26,4 @@
 <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alen-loforte&" alt="alen-loforte" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats-git-main-alen-lofortes-projects.vercel.app/api?username=Alen-Loforte)](https://github.com/anuraghazra/github-readme-stats)
