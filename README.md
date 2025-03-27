@@ -9,9 +9,9 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alen-loforte" alt="alen-loforte" /></a> </p>
 
-- 🌱 I’m currently learning **Vue 3, Vitest and Quasar**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **vue related projects**
+- 👯 I’m looking to collaborate on **Vue related projects**
 
 - 📫 How to reach me **alenloforte86@hotmail.com**
 
