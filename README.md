@@ -25,5 +25,3 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer">
 <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats-git-main-alen-lofortes-projects.vercel.app/api?username=Alen-Loforte)](https://github.com/anuraghazra/github-readme-stats)
