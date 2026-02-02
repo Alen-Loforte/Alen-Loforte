@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alen Loforte</h1>
-<h3 align="center">A passionate frontend developer from Mozambique.</h3>
+<h3 align="center">A passionate developer from Mozambique.</h3>
 
 <h4 align="left">Some of my projects:</h3>
 <a href="https://gamefiresale.web.app/home" target="blank">My first vue project</a>: Its a website that allows to see games on promotion across varios stores. It uses cheapShark api.
@@ -9,7 +9,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alen-loforte" alt="alen-loforte" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **QA**
 
 - 👯 I’m looking to collaborate on **Vue related projects**
 
