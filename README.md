@@ -7,7 +7,7 @@
 </p>
 </p>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alen-loforte" alt="alen-loforte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-alen-lofortes-projects.vercel.app/?username=alen-loforte" alt="alen-loforte" /></a> </p>
 
 - 🌱 I’m currently learning **QA**
 
